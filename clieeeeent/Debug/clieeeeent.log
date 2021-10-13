@@ -1,0 +1,11 @@
+﻿  client.cpp
+C:\Users\Asus\source\repos\clieeeeent\client.cpp(270,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\clieeeeent\client.cpp(347,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\clieeeeent\client.cpp(374,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\clieeeeent\client.cpp(390,17): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Asus\source\repos\clieeeeent\client.cpp(407,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\clieeeeent\client.cpp(420,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\clieeeeent\client.cpp(424,30): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\clieeeeent\client.cpp(438,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\clieeeeent\client.cpp(442,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  clieeeeent.vcxproj -> C:\Users\Asus\source\repos\clieeeeent\Debug\clieeeeent.exe

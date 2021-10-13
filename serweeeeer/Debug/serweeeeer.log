@@ -1,0 +1,28 @@
+﻿  serwer.cpp
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(153,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(327,79): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(384,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(389,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(428,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(441,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(471,17): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(490,18): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(491,18): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(492,18): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(493,18): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(494,18): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(495,18): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(498,18): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(499,18): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(500,18): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(501,18): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(502,18): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(503,18): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(520,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(533,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(537,30): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(551,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(555,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(504): warning C4715: "whichMin”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Asus\source\repos\serweeeeer\serwer.cpp(496): warning C4715: "whichMax”: niewszystkie ścieżki kodu zwracają wartość
+  serweeeeer.vcxproj -> C:\Users\Asus\source\repos\serweeeeer\Debug\serweeeeer.exe
